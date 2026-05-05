@@ -83,32 +83,21 @@ currently_learning:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=David-Llerena&show_icons=true&theme=dracula&hide_border=false&border_radius=10" height="160" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Llerena&layout=compact&theme=dracula&hide_border=false&border_radius=10" height="160" alt="top languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=David-Llerena&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=10" height="160" alt="streak graph" />
-</div>
-
----
-
 ## 🕹️ Contributions Game
 
 <p align="center">
   Un pequeño toque visual para representar mi actividad en GitHub.
 </p>
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/David-Llerena/David-Llerena/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/David-Llerena/David-Llerena/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/David-Llerena/David-Llerena/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
 
 ---
 
