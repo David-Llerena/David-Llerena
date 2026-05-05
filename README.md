@@ -39,29 +39,14 @@ currently_learning:
 
 <div align="center">
 
-### Lenguajes
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,py,php" height="55" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,laravel" height="55" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="55" />
-
-### Bases de datos
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="55" />
-
-### DevOps e infraestructura
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,aws,nginx" height="55" />
-
-### Herramientas
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,bash" height="55" />
+| Categoría | Tecnologías |
+|---|---|
+| **Lenguajes** | <img src="https://skillicons.dev/icons?i=java,js,ts,py,php" height="38" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,laravel" height="38" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="38" /> |
+| **Bases de datos** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="38" /> |
+| **DevOps e infraestructura** | <img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,aws,nginx" height="38" /> |
+| **Herramientas** | <img src="https://skillicons.dev/icons?i=vscode,postman,figma,bash" height="38" /> |
 
 </div>
 
