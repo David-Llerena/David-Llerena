@@ -83,10 +83,10 @@ currently_learning:
 
 ---
 
-## 🕹️ Contributions Game
+## 🎮 Contribution Activity
 
 <p align="center">
-  Un pequeño toque visual para representar mi actividad en GitHub.
+  Actividad visual de mis contribuciones en GitHub.
 </p>
 
 <div align="center">
@@ -101,7 +101,7 @@ currently_learning:
 
 ---
 
-## 🌐 Contacto
+## 📫 Contacto
 
 <div align="center">
   <a href="https://www.linkedin.com/in/davidllerena" target="_blank">
